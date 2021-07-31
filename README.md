@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ludgero !
+- 👀 I’m interested in Web development and E-commerce.
+- 🌱 I’m currently learning Salesforce, SCSS, ISML and Javascript.
+- 📫 How to reach me ludgeromteixeira@gmail.com.
